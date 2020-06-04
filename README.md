@@ -1,0 +1,2 @@
+# springboot-redis2
+springboot整合redis及实现Redis消息队列消费者
